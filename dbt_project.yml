@@ -39,7 +39,7 @@ models:
   my_new_project:
     # Applies to all files under models/example/
     dev:
-      +materialized: view
-      +schema: dev
+      materialized: view
+      schema: dev
     test:
-      +materialized: view
+      materialized: view
