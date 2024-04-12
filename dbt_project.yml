@@ -43,4 +43,3 @@ models:
       +schema: dev
     test:
       +materialized: view
-      +schema: testing
